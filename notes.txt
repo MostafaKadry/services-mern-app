@@ -1,0 +1,70 @@
+[{"id":"1","governorate_name_en":"Cairo"},
+{"id":"2","governorate_name_en":"Giza"},
+{"id":"3","governorate_name_en":"Alexandria"},
+{"id":"4","governorate_name_en":"Dakahlia"},
+{"id":"5","governorate_name_en":"Red Sea"},
+{"id":"6","governorate_name_en":"Beheira"},
+{"id":"7","governorate_name_en":"Fayoum"},
+{"id":"8","governorate_name_en":"Gharbiya"},
+{"id":"9","governorate_name_en":"Ismailia"},
+{"id":"10","governorate_name_en":"Menofia"},
+{"id":"11","governorate_name_en":"Minya"},
+{"id":"12","governorate_name_en":"Qaliubiya"},
+{"id":"13","governorate_name_en":"New Valley"},
+{"id":"14","governorate_name_en":"Suez"},
+{"id":"15","governorate_name_en":"Aswan"},
+{"id":"16","governorate_name_en":"Assiut"},
+{"id":"17","governorate_name_en":"Beni Suef"},
+{"id":"18","governorate_name_en":"Port Said"},
+{"id":"19","governorate_name_en":"Damietta"},
+{"id":"20","governorate_name_en":"Sharkia"},
+{"id":"21","governorate_name_en":"South Sinai"},
+{"id":"22","governorate_name_en":"Kafr Al sheikh"},
+{"id":"23","governorate_name_en":"Matrouh"},
+{"id":"24","governorate_name_en":"Luxor"},
+{"id":"25","governorate_name_en":"Qena"},
+{"id":"26","governorate_name_en":"North Sinai"},
+{"id":"27","governorate_name_en":"Sohag"}
+        ,
+
+
+            {"id":"1","city_name_en":"Sohag Center"},
+            {"id":"2","city_name_en":"Akhmim"},
+            {"id":"3","city_name_en":"Dar AISalaam"},
+            {"id":"4","city_name_en":"I will say"},
+            {"id":"5","city_name_en":"arguing"},
+            {"id":"6","city_name_en":"Tahta"},
+            {"id":"7","city_name_en":"thyme"},
+            {"id":"8","city_name_en":"Juhayna"},
+            {"id":"9","city_name_en":"Enterprise"},
+           {"id":"10","city_name_en":"Girga"},
+           {"id":"11","city_name_en":"balina"},
+     
+{
+    "main": {
+    "Cleaning Services" : { 
+        "1": "Residential Cleaning Services",
+        "2" : "Commercial Cleaning Services",
+        "3": "Laundry and Dry Cleaning Services",
+        "4": "Sanitization and Disinfection",
+        "5": "Green Cleaning Services",
+        "6": "Pressure Washing Services"
+     }
+    }
+
+}
+
+]
+{"_id":"62d30f15225f9de92d12de87","name":"Cleanliness"}
+
+
+
+
+
+
+
+
+
+{"_id":"62d30f15225f9de92d12de84","name":"Security"},
+{"_id":"62d30f15225f9de92d12de85","name":"building"},
+{"_id":"62d30f15225f9de92d12de86","name":"care"},
